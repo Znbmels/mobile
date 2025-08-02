@@ -7,43 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1A1A1A1A1A1A1A1A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A1A1A1A1A1A1B /* AppDelegate.swift */; };
-		1A1A1A1A1A1A1A1C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A1A1A1A1A1A1D /* SceneDelegate.swift */; };
-		1A1A1A1A1A1A1A1E /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A1A1A1A1A1A1F /* User.swift */; };
-		1A1A1A1A1A1A1A20 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A1A1A1A1A1A21 /* Order.swift */; };
-		1A1A1A1A1A1A1A22 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A1A1A1A1A1A23 /* AuthService.swift */; };
-		1A1A1A1A1A1A1A24 /* APIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A1A1A1A1A1A25 /* APIService.swift */; };
-		1A1A1A1A1A1A1A26 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A1A1A1A1A1A27 /* LoginViewController.swift */; };
-		1A1A1A1A1A1A1A28 /* OrdersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A1A1A1A1A1A29 /* OrdersViewController.swift */; };
-		1A1A1A1A1A1A1A2A /* OrderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A1A1A1A1A1A2B /* OrderTableViewCell.swift */; };
-		1A1A1A1A1A1A1A2C /* OrderDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A1A1A1A1A1A2D /* OrderDetailViewController.swift */; };
-		1A1A1A1A1A1A1A2E /* StatisticsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A1A1A1A1A1A2F /* StatisticsViewController.swift */; };
-		1A1A1A1A1A1A1A30 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A1A1A1A1A1A31 /* ProfileViewController.swift */; };
-		1A1A1A1A1A1A1A32 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A1A1A1A1A1A1A33 /* Assets.xcassets */; };
-		1A1A1A1A1A1A1A34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A1A1A1A1A1A1A35 /* LaunchScreen.storyboard */; };
+		A1B2C3D4E5F60001 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F60002 /* AppDelegate.swift */; };
+		A1B2C3D4E5F60003 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F60004 /* SceneDelegate.swift */; };
+		A1B2C3D4E5F60005 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F60006 /* User.swift */; };
+		A1B2C3D4E5F60007 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F60008 /* Order.swift */; };
+		A1B2C3D4E5F60009 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F6000A /* AuthService.swift */; };
+		A1B2C3D4E5F6000B /* APIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F6000C /* APIService.swift */; };
+		A1B2C3D4E5F6000D /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F6000E /* LoginViewController.swift */; };
+		A1B2C3D4E5F6000F /* OrdersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F60010 /* OrdersViewController.swift */; };
+		A1B2C3D4E5F60011 /* OrderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F60012 /* OrderTableViewCell.swift */; };
+		A1B2C3D4E5F60013 /* OrderDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F60014 /* OrderDetailViewController.swift */; };
+		A1B2C3D4E5F60015 /* StatisticsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F60016 /* StatisticsViewController.swift */; };
+		A1B2C3D4E5F60017 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F60018 /* ProfileViewController.swift */; };
+		A1B2C3D4E5F60019 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F6001A /* Assets.xcassets */; };
+		A1B2C3D4E5F6001B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F6001C /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1A1A1A1A1A1A1A18 /* AdalCRM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdalCRM.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1A1A1A1A1A1A1A1B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		1A1A1A1A1A1A1A1D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		1A1A1A1A1A1A1A1F /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
-		1A1A1A1A1A1A1A21 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
-		1A1A1A1A1A1A1A23 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
-		1A1A1A1A1A1A1A25 /* APIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIService.swift; sourceTree = "<group>"; };
-		1A1A1A1A1A1A1A27 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
-		1A1A1A1A1A1A1A29 /* OrdersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrdersViewController.swift; sourceTree = "<group>"; };
-		1A1A1A1A1A1A1A2B /* OrderTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderTableViewCell.swift; sourceTree = "<group>"; };
-		1A1A1A1A1A1A1A2D /* OrderDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderDetailViewController.swift; sourceTree = "<group>"; };
-		1A1A1A1A1A1A1A2F /* StatisticsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsViewController.swift; sourceTree = "<group>"; };
-		1A1A1A1A1A1A1A31 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
-		1A1A1A1A1A1A1A33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		1A1A1A1A1A1A1A35 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
-		1A1A1A1A1A1A1A38 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1B2C3D4E5F6001D /* AdalCRM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdalCRM.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1B2C3D4E5F60002 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A1B2C3D4E5F60004 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		A1B2C3D4E5F60006 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		A1B2C3D4E5F60008 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		A1B2C3D4E5F6000A /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
+		A1B2C3D4E5F6000C /* APIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIService.swift; sourceTree = "<group>"; };
+		A1B2C3D4E5F6000E /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		A1B2C3D4E5F60010 /* OrdersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrdersViewController.swift; sourceTree = "<group>"; };
+		A1B2C3D4E5F60012 /* OrderTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderTableViewCell.swift; sourceTree = "<group>"; };
+		A1B2C3D4E5F60014 /* OrderDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderDetailViewController.swift; sourceTree = "<group>"; };
+		A1B2C3D4E5F60016 /* StatisticsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsViewController.swift; sourceTree = "<group>"; };
+		A1B2C3D4E5F60018 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		A1B2C3D4E5F6001A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A1B2C3D4E5F6001C /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A1B2C3D4E5F6001E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1A1A1A1A1A1A1A15 /* Frameworks */ = {
+		A1B2C3D4E5F6001F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -53,56 +53,64 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1A1A1A1A1A1A1A0F /* Products */ = {
+		A1B2C3D4E5F60020 = {
 			isa = PBXGroup;
 			children = (
-				1A1A1A1A1A1A1A18 /* AdalCRM.app */,
+				A1B2C3D4E5F60021 /* AdalCRM */,
+				A1B2C3D4E5F60022 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A1B2C3D4E5F60022 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A1B2C3D4E5F6001D /* AdalCRM.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1A1A1A1A1A1A1A1A /* AdalCRM */ = {
+		A1B2C3D4E5F60021 /* AdalCRM */ = {
 			isa = PBXGroup;
 			children = (
-				1A1A1A1A1A1A1A1B /* AppDelegate.swift */,
-				1A1A1A1A1A1A1A1D /* SceneDelegate.swift */,
-				1A1A1A1A1A1A1A39 /* Models */,
-				1A1A1A1A1A1A1A3A /* Services */,
-				1A1A1A1A1A1A1A3B /* Views */,
-				1A1A1A1A1A1A1A33 /* Assets.xcassets */,
-				1A1A1A1A1A1A1A35 /* LaunchScreen.storyboard */,
-				1A1A1A1A1A1A1A38 /* Info.plist */,
+				A1B2C3D4E5F60002 /* AppDelegate.swift */,
+				A1B2C3D4E5F60004 /* SceneDelegate.swift */,
+				A1B2C3D4E5F60023 /* Models */,
+				A1B2C3D4E5F60024 /* Services */,
+				A1B2C3D4E5F60025 /* Views */,
+				A1B2C3D4E5F6001A /* Assets.xcassets */,
+				A1B2C3D4E5F6001C /* LaunchScreen.storyboard */,
+				A1B2C3D4E5F6001E /* Info.plist */,
 			);
 			path = AdalCRM;
 			sourceTree = "<group>";
 		};
-		1A1A1A1A1A1A1A39 /* Models */ = {
+		A1B2C3D4E5F60023 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				1A1A1A1A1A1A1A1F /* User.swift */,
-				1A1A1A1A1A1A1A21 /* Order.swift */,
+				A1B2C3D4E5F60006 /* User.swift */,
+				A1B2C3D4E5F60008 /* Order.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
 		};
-		1A1A1A1A1A1A1A3A /* Services */ = {
+		A1B2C3D4E5F60024 /* Services */ = {
 			isa = PBXGroup;
 			children = (
-				1A1A1A1A1A1A1A23 /* AuthService.swift */,
-				1A1A1A1A1A1A1A25 /* APIService.swift */,
+				A1B2C3D4E5F6000A /* AuthService.swift */,
+				A1B2C3D4E5F6000C /* APIService.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
 		};
-		1A1A1A1A1A1A1A3B /* Views */ = {
+		A1B2C3D4E5F60025 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				1A1A1A1A1A1A1A27 /* LoginViewController.swift */,
-				1A1A1A1A1A1A1A29 /* OrdersViewController.swift */,
-				1A1A1A1A1A1A1A2B /* OrderTableViewCell.swift */,
-				1A1A1A1A1A1A1A2D /* OrderDetailViewController.swift */,
-				1A1A1A1A1A1A1A2F /* StatisticsViewController.swift */,
-				1A1A1A1A1A1A1A31 /* ProfileViewController.swift */,
+				A1B2C3D4E5F6000E /* LoginViewController.swift */,
+				A1B2C3D4E5F60010 /* OrdersViewController.swift */,
+				A1B2C3D4E5F60012 /* OrderTableViewCell.swift */,
+				A1B2C3D4E5F60014 /* OrderDetailViewController.swift */,
+				A1B2C3D4E5F60016 /* StatisticsViewController.swift */,
+				A1B2C3D4E5F60018 /* ProfileViewController.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -110,13 +118,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1A1A1A1A1A1A1A17 /* AdalCRM */ = {
+		A1B2C3D4E5F60026 /* AdalCRM */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1A1A1A1A1A1A1A3C /* Build configuration list for PBXNativeTarget "AdalCRM" */;
+			buildConfigurationList = A1B2C3D4E5F60027 /* Build configuration list for PBXNativeTarget "AdalCRM" */;
 			buildPhases = (
-				1A1A1A1A1A1A1A14 /* Sources */,
-				1A1A1A1A1A1A1A15 /* Frameworks */,
-				1A1A1A1A1A1A1A16 /* Resources */,
+				A1B2C3D4E5F60028 /* Sources */,
+				A1B2C3D4E5F6001F /* Frameworks */,
+				A1B2C3D4E5F60029 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -124,24 +132,24 @@
 			);
 			name = AdalCRM;
 			productName = AdalCRM;
-			productReference = 1A1A1A1A1A1A1A18 /* AdalCRM.app */;
+			productReference = A1B2C3D4E5F6001D /* AdalCRM.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1A1A1A1A1A1A1A10 /* Project object */ = {
+		A1B2C3D4E5F6002A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1200;
 				LastUpgradeCheck = 1200;
 				TargetAttributes = {
-					1A1A1A1A1A1A1A17 = {
+					A1B2C3D4E5F60026 = {
 						CreatedOnToolsVersion = 12.0;
 					};
 				};
 			};
-			buildConfigurationList = 1A1A1A1A1A1A1A13 /* Build configuration list for PBXProject "AdalCRM" */;
+			buildConfigurationList = A1B2C3D4E5F6002B /* Build configuration list for PBXProject "AdalCRM" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -149,52 +157,52 @@
 				en,
 				Base,
 			);
-			mainGroup = 1A1A1A1A1A1A1A0E;
-			productRefGroup = 1A1A1A1A1A1A1A0F /* Products */;
+			mainGroup = A1B2C3D4E5F60020;
+			productRefGroup = A1B2C3D4E5F60022 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1A1A1A1A1A1A1A17 /* AdalCRM */,
+				A1B2C3D4E5F60026 /* AdalCRM */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1A1A1A1A1A1A1A16 /* Resources */ = {
+		A1B2C3D4E5F60029 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A1A1A1A1A1A1A32 /* Assets.xcassets in Resources */,
-				1A1A1A1A1A1A1A34 /* LaunchScreen.storyboard in Resources */,
+				A1B2C3D4E5F60019 /* Assets.xcassets in Resources */,
+				A1B2C3D4E5F6001B /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1A1A1A1A1A1A1A14 /* Sources */ = {
+		A1B2C3D4E5F60028 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A1A1A1A1A1A1A1A /* AppDelegate.swift in Sources */,
-				1A1A1A1A1A1A1A1C /* SceneDelegate.swift in Sources */,
-				1A1A1A1A1A1A1A1E /* User.swift in Sources */,
-				1A1A1A1A1A1A1A20 /* Order.swift in Sources */,
-				1A1A1A1A1A1A1A22 /* AuthService.swift in Sources */,
-				1A1A1A1A1A1A1A24 /* APIService.swift in Sources */,
-				1A1A1A1A1A1A1A26 /* LoginViewController.swift in Sources */,
-				1A1A1A1A1A1A1A28 /* OrdersViewController.swift in Sources */,
-				1A1A1A1A1A1A1A2A /* OrderTableViewCell.swift in Sources */,
-				1A1A1A1A1A1A1A2C /* OrderDetailViewController.swift in Sources */,
-				1A1A1A1A1A1A1A2E /* StatisticsViewController.swift in Sources */,
-				1A1A1A1A1A1A1A30 /* ProfileViewController.swift in Sources */,
+				A1B2C3D4E5F60001 /* AppDelegate.swift in Sources */,
+				A1B2C3D4E5F60003 /* SceneDelegate.swift in Sources */,
+				A1B2C3D4E5F60005 /* User.swift in Sources */,
+				A1B2C3D4E5F60007 /* Order.swift in Sources */,
+				A1B2C3D4E5F60009 /* AuthService.swift in Sources */,
+				A1B2C3D4E5F6000B /* APIService.swift in Sources */,
+				A1B2C3D4E5F6000D /* LoginViewController.swift in Sources */,
+				A1B2C3D4E5F6000F /* OrdersViewController.swift in Sources */,
+				A1B2C3D4E5F60011 /* OrderTableViewCell.swift in Sources */,
+				A1B2C3D4E5F60013 /* OrderDetailViewController.swift in Sources */,
+				A1B2C3D4E5F60015 /* StatisticsViewController.swift in Sources */,
+				A1B2C3D4E5F60017 /* ProfileViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		1A1A1A1A1A1A1A3D /* Debug */ = {
+		A1B2C3D4E5F6002C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -255,7 +263,7 @@
 			};
 			name = Debug;
 		};
-		1A1A1A1A1A1A1A3E /* Release */ = {
+		A1B2C3D4E5F6002D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -310,7 +318,7 @@
 			};
 			name = Release;
 		};
-		1A1A1A1A1A1A1A40 /* Debug */ = {
+		A1B2C3D4E5F6002E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -329,7 +337,7 @@
 			};
 			name = Debug;
 		};
-		1A1A1A1A1A1A1A41 /* Release */ = {
+		A1B2C3D4E5F6002F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -351,25 +359,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1A1A1A1A1A1A1A13 /* Build configuration list for PBXProject "AdalCRM" */ = {
+		A1B2C3D4E5F6002B /* Build configuration list for PBXProject "AdalCRM" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1A1A1A1A1A1A1A3D /* Debug */,
-				1A1A1A1A1A1A1A3E /* Release */,
+				A1B2C3D4E5F6002C /* Debug */,
+				A1B2C3D4E5F6002D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1A1A1A1A1A1A1A3C /* Build configuration list for PBXNativeTarget "AdalCRM" */ = {
+		A1B2C3D4E5F60027 /* Build configuration list for PBXNativeTarget "AdalCRM" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1A1A1A1A1A1A1A40 /* Debug */,
-				1A1A1A1A1A1A1A41 /* Release */,
+				A1B2C3D4E5F6002E /* Debug */,
+				A1B2C3D4E5F6002F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 1A1A1A1A1A1A1A10 /* Project object */;
+	rootObject = A1B2C3D4E5F6002A /* Project object */;
 }
